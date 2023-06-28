@@ -1,11 +1,15 @@
 # CV
-Ilya Paraschenko
+## Ilya Paraschenko
 
-!(../img/21.jpg)
+My Contact Info:
 
-My contacts
-* Telegram @ilya_dinamo
-* Telephone number +375(44)764-10-74 
+Location: Belarus, Gomel
+Phone: +375 44 7641074
+E-mail: ilya.dinamo21@gmail.com
+GitHub: IlyaDinamo
+Telegram: ilya_dinamo
+Discord: ilya_dinamo#9096
+Instagramm: ilya_dinamo 
 
 About yourself: I want to learn JS/HTML/CSS to work on site development. My goal is to become a Front-end developer. My strengths are that I persist and always bring the case to the end. There is no experience in the company, but I work on my home projects. Always ready to learn new things.
 > There is no limit to perfection.
