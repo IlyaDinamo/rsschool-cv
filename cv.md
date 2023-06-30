@@ -11,6 +11,8 @@ Telegram: ilya_dinamo
 Discord: ilya_dinamo#9096
 Instagramm: ilya_dinamo 
 
+***** **** ********
+
 About yourself: I want to learn JS/HTML/CSS to work on site development. My goal is to become a Front-end developer. My strengths are that I persist and always bring the case to the end. There is no experience in the company, but I work on my home projects. Always ready to learn new things.
 > There is no limit to perfection.
 
