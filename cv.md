@@ -39,7 +39,7 @@ Nothing yet…
 - A number of courses have been held in the JS and the JS base.
 - RS Schools Course «JavaScript/Front-end. Stage 0» (in progress).
 - CSS, HTML, Git video courses on YouTube, different channels.
-- JavaScript Manual on learnjavascript.ru (in progress).
+- JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru) (in progress).
 
 ***** **** ********
 
