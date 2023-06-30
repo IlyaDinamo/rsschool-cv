@@ -1,4 +1,3 @@
-# CV
 ## Ilya Paraschenko
 
 ### My Contact Info:
@@ -13,13 +12,15 @@
 
 ***** **** ********
 
-About yourself: I want to learn JS/HTML/CSS to work on site development. My goal is to become a Front-end developer. My strengths are that I persist and always bring the case to the end. There is no experience in the company, but I work on my home projects. Always ready to learn new things.
+### About Myself:
+
+I want to learn JS/HTML/CSS to work on site development. My goal is to become a Front-end developer. My strengths are that I persist and always bring the case to the end. There is no experience in the company, but I work on my home projects. Always ready to learn new things.
 > There is no limit to perfection.
 
 ***** **** ********
 
 ### Examples of my code:
-for (i = 0; i <= 364; i++) {
+``` for (i = 0; i <= 364; i++) {
 	console.log('Good day for you')
 } 
 
