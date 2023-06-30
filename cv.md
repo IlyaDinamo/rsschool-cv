@@ -19,10 +19,10 @@ I want to learn JS/HTML/CSS to work on site development. My goal is to become a 
 
 ***** **** ********
 
-### Examples of my code:
-``` for (i = 0; i <= 364; i++) {
+### Examples of my code: ```
+for (i = 0; i <= 364; i++) {
 	console.log('Good day for you')
-} 
+} ```
 
 ***** **** ********
 
