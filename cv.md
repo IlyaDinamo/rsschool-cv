@@ -1,11 +1,13 @@
 ## Ilya Paraschenko
 
+![](//placehold.it/150x100)
+
 ### My Contact Info:
 
 - Location: Belarus, Gomel
 - Phone: +375 44 7641074
 - E-mail: ilya.dinamo21@gmail.com
-- GitHub: IlyaDinamo
+- GitHub: [IlyaDinamo](https://github.com/IlyaDinamo)
 - Telegram: ilya_dinamo
 - Discord: ilya_dinamo#9096
 - Instagramm: ilya_dinamo 
