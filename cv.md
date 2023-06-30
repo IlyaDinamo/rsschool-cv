@@ -14,7 +14,7 @@
 
 ### About Myself:
 
-I want to learn JS/HTML/CSS to work on site development. My goal is to become a Front-end developer. My strengths are that I persist and always bring the case to the end. There is no experience in the company, but I work on my home projects. Always ready to learn new things.
+My name is Ilya, I am 24 years old. I want to learn JS/HTML/CSS to work on site development. My goal is to become a Front-end developer. My strengths are that I persist and always bring the case to the end. There is no experience in the company, but I work on my home projects. Always ready to learn new things.
 > There is no limit to perfection.
 
 ***** **** ********
