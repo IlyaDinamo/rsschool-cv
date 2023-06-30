@@ -1,6 +1,6 @@
 ## Ilya Paraschenko
 
-![](//placehold.it/150x100)
+![]([//placehold.it/150x100](https://vk.com/ilya_paraschenko?z=photo153431072_456249059%2Fphotos153431072))
 
 ### My Contact Info:
 
