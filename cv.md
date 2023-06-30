@@ -1,7 +1,7 @@
 # CV
 ## Ilya Paraschenko
 
-My Contact Info:
+### My Contact Info:
 
 - Location: Belarus, Gomel
 - Phone: +375 44 7641074
