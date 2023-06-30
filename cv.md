@@ -30,7 +30,9 @@ A number of courses have been held in the JS and the JS base.
 
 ***** **** ********
 
-### _My level of English:_ 
-A1
+### Languages:
+
+- Russian - Native
+- English level - A2
 
 ***** **** ********
