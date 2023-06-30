@@ -3,13 +3,13 @@
 
 My Contact Info:
 
--Location: Belarus, Gomel
--Phone: +375 44 7641074
--E-mail: ilya.dinamo21@gmail.com
--GitHub: IlyaDinamo
--Telegram: ilya_dinamo
--Discord: ilya_dinamo#9096
--Instagramm: ilya_dinamo 
+- Location: Belarus, Gomel
+- Phone: +375 44 7641074
+- E-mail: ilya.dinamo21@gmail.com
+- GitHub: IlyaDinamo
+- Telegram: ilya_dinamo
+- Discord: ilya_dinamo#9096
+- Instagramm: ilya_dinamo 
 
 ***** **** ********
 
