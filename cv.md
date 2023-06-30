@@ -25,10 +25,10 @@ for (i = 0; i <= 364; i++) {
 
 ***** **** ********
 
-### Education: A number of courses have been held in the JS and the JS base.
+***Education:*** A number of courses have been held in the JS and the JS base.
 
 ***** **** ********
 
-### My level of English: A1
+***My level of English:*** A1
 
 ***** **** ********
