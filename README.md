@@ -1,1 +1,1 @@
-# rsschool-cv
+Link to GitHub - https://github.com/IlyaDinamo/rsschool-cv
